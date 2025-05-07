@@ -1,0 +1,2 @@
+{'error': False, 'category': 'Pun', 'type': 'twopart', 'setup': 'What do you call a witch at the beach?', 'delivery': 'A Sandwich.', 'flags': {'nsfw': False, 'religious': False, 'political': False, 'racist': False, 'sexist': False, 'explicit': False}, 'id': 175, 'safe': True, 'lang': 'en'}
+{'chistes_una_parte': 0, 'chistes_dos_partes': 1, 'prom_chistes_una_linea': 0.0, 'prom_chistes_dos_lineas': 100.0, 'prom_exito_ejecucion': 100.0}
